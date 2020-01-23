@@ -5,7 +5,7 @@
 اگه درسی رو توی این لیست نمیبینین، لطفا ریکوئست بزنین تا اضافه بشه و وقت کلی از همکلاسیها و دوستاتون بیخود هدر نره :) برای کارهای آتی، لطفا منابع درس ها رو اضافه کنین.
 </div>
 
-## General Mathematics I (Calculas I)
+## General Mathematics I (Calculus I)
 
 This calculus course covers differentiation and integration of functions of one variable, and concludes with a brief discussion of infinite series. Calculus is fundamental to many scientific disciplines including physics, engineering, and economics.
 
@@ -25,7 +25,7 @@ Focused on four English Skills: Writing, Speaking, Listening and Reading.
 
 Focused on Iran History and Islamic Civilization in Arab world.
 
-## General Mathematics II (Calculas II)
+## General Mathematics II (Calculus II)
 
 Calculus II is a continuation of Calculus I, covering integration and infinite series. It is designed for students working on a degree in science, mathematics, computer science, and those planning on certain types of graduate work.
 
@@ -236,6 +236,22 @@ This course introduces advanced control-structures with an emphasis on concurren
 ## Computer Simulation
 
 In this course, students will learn how to do computer simulations of such phenomena as orbits (Kepler problem and N-body problem), epidemic and endemic disease (including evolution in response to the selective pressure of a malaria), and traffic flow in a city (with lights, breakdowns, and gridlock at corners). The simulations are based on mathematical models, numerical methods, and Matlab programming techniques that will be taught in class.
+
+## Engineering Economics
+
+Emphasizes the systematic evaluation of the costs and benefits associated with proposed technical projects. The student will be exposed to the concepts of the “time value of money” and the methods of discounted cash flow. Students are prepared to make decisions regarding money as capital within a technological or engineering environment.
+
+## Multimedia Systems
+
+Students are introduced to the fundamentals and technologies of multimedia system design and gain useful hands-on experience. In this lesson, students will learn the techniques of compressing and retrieving multimedia data such as text, audio, and video as well as multimedia communication content.
+
+## Internet Engineering
+
+This course provides an introduction to fundamental concepts of the Internet and web technologies including their architecture, protocols and applications.  The main topics of the course include: Introduction to Internet history and Internet services, networking basics, overview of TCP/IP (addressing, routing and transport protocols), network programming, web programming, web services, web servers and Internet security. There will be one quiz every week, four programming assignments during term, some homework, one midterm and a final exam.
+
+## Computer Graphics 1
+
+Computer Graphics I is a study of the hardware and software principles of interactive raster graphics. Topics include an introduction to the basic concepts, 2-D and 3-D modeling and transformations, viewing transformations, projections, rendering techniques, graphical software packages and graphics systems. Students will use a standard computer graphics API to reinforce concepts and study fundamental computer graphics algorithms.
 
 ## Data Mining
 
