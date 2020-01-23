@@ -5,7 +5,7 @@
 اگه درسی رو توی این لیست نمیبینین، لطفا ریکوئست بزنین تا اضافه بشه و وقت کلی از همکلاسیها و دوستاتون بیخود هدر نره :) برای کارهای آتی، لطفا منابع درس ها رو اضافه کنین.
 </div>
 
-## General Mathematics I (Calculas I)
+## General Mathematics I (Calculus I)
 
 This calculus course covers differentiation and integration of functions of one variable, and concludes with a brief discussion of infinite series. Calculus is fundamental to many scientific disciplines including physics, engineering, and economics.
 
@@ -172,7 +172,7 @@ This course enables students to develop an accurate mental model of the architec
 
 ## Software Engineering (II)
 
-To provide students with an appreciation for software engineering tools and methodologies in the construction of computer-based systems.
+Methodologies, approaches, and techniques associated with software design, implementation, and testing of a software system; other topics include cooperative teamwork, project management, and documentation; second semester of a two-semester capstone project in which students design and implement a realworld application.
 
 ## Software Engineering Lab
 
@@ -188,15 +188,14 @@ Laboratory and practicies of Logic Circuits course
 
 ## Operating Systems
 
-This course introduces operating systems, what they do, how they are used, and how they are implemented.
+The purpose of this course is to provide students basic knowledge of operating systems, difference between the kernel and user modes, concepts of application program interfaces, methods and implementations of interrupts. Students are introduced to the schedulers, policies, processes, threads, memory management, virtual memory, protection, access control, and authentication. Students learn system calls in different popular operating systems used in the industry.
 
 ## Microprocessors I
 
 Upon completion of the module, students are able to understand and analyse: 1) the architecture of a microprocessor in general, 2) features that have been added over processor generations since the first microprocessor, 3) the state of the art in modern microprocessor architectures, 4) possible trends with regard to future processor architectures, and 5) techniques to program and optimise different architectures at assembly language level.
 
 ## Computer Networks
-
-This course introduces the fundamentals of network architectures and protocols and focuses on protocols used in the Internet.
+This course provides an introduction to computer networks, with a special focus on the Internet architecture and protocols. Topics include layered network architectures, addressing, naming, forwarding, routing, communication reliability, the client-server model, web and email protocols. Besides the theoretical foundations, students acquire practical experience by programming reduced versions of real Internet protocols.
 
 ## Computer Architecture Lab
 
@@ -206,8 +205,7 @@ Laboratory and practicies of Computer Architecture course
 Laboratory and practicies of Database Design Principles course
 
 ## Software Apprenticeship
-
-In the software engineering internship, our students develop software projects from A to Z. They work independently in groups. There is also a weekly meeting where you have to present various aspects of the projects (organizational, technical, etc.).
+The aim of this course is to use the internship experience to enable students to develop their software engineering skills and practice. Students will be placed in industry, working full-time and assessed for academic credit. The internships will be aligned with the aims of the software engineering program. Students will experience a real-life engineering workplace and understand how their software engineering and professional skills and knowledge can be utilized in industry. They will also be able to demonstrate functioning software engineering knowledge, both new and existing, and identify areas of further development.
 
 ## Software Project
 
@@ -254,3 +252,15 @@ At the end of the module students are able to:
 - apply regression and classification algorithms in R
 - know the concept of error in generalization, cross-validation
 - implement in R a cross-validation scheme.
+
+## Computer Graphics 1
+Computer Graphics I is a study of the hardware and software principles of interactive raster graphics. Topics include an introduction to the basic concepts, 2-D and 3-D modeling and transformations, viewing transformations, projections, rendering techniques, graphical software packages and graphics systems. Students will use a standard computer graphics API to reinforce concepts and study fundamental computer graphics algorithms.
+
+## Internet Engineering
+This course provides an introduction to fundamental concepts of the Internet and web technologies including their architecture, protocols and applications.  The main topics of the course include: Introduction to Internet history and Internet services, networking basics, overview of TCP/IP (addressing, routing and transport protocols), network programming, web programming, web services, web servers and Internet security. There will be one quiz every week, four programming assignments during term, some homework, one midterm and a final exam.
+
+## Multimedia Systems
+Students are introduced to the fundamentals and technologies of multimedia system design and gain useful hands-on experience. In this lesson, students will learn the techniques of compressing and retrieving multimedia data such as text, audio, and video as well as multimedia communication content.
+
+## Engineering Economics
+Emphasizes the systematic evaluation of the costs and benefits associated with proposed technical projects. The student will be exposed to the concepts of the “time value of money” and the methods of discounted cash flow. Students are prepared to make decisions regarding money as capital within a technological or engineering environment.
